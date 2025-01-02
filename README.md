@@ -1,4 +1,3 @@
-# covid_cases
 
 # COVID-19 Weekly Analysis Report
 
